@@ -1,17 +1,17 @@
-#Notes Summarizer 📝
+# Notes Summarizer 📝
 
-##Introduction
+## Introduction
 Welcome to the AI-Powered Notes Summarizer! This tool uses cutting-edge AI technology to summarize long notes, articles, or any text you provide into shorter, more digestible summaries. Whether you're tackling long study notes, research papers, or just trying to quickly digest information, this project can help you condense complex content into the essentials.
 
 Built using Hugging Face's facebook/bart-large-cnn model, this tool provides fast and accurate summarizations, saving you time and effort.
 
-##Features
+## Features
 Quick Summarization: Input long-form text, and get a neat summary with key points.
 File Upload: Simply upload a .txt file containing your notes or content for summarization.
 Interactive in Jupyter Notebook: All interactions happen right in the notebook, making it super easy to use.
 What You’ll Need
 
-##How to Use It
+## How to Use It
 Run the Notebook: Open the provided Jupyter Notebook AI_Powered_Notes_Summarizer.ipynb on your local setup or in a cloud notebook environment (like Google Colab or Jupyter Lab).
 
 Upload Your Notes:
